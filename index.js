@@ -17,7 +17,6 @@ app.listen(3000, () => {
     console.log("App listening on port 3000")
 })
 
-
 // Cach routing khi dung sendFile API
 
 // app.get('/', (request, response) => {
